@@ -27,7 +27,7 @@ namespace Gemo_test_application
         Results results;
         GemoTestEntities db = new GemoTestEntities();
         int idWindow = 0;
-        string amogus = "asd";
+        string amogus = "amogus";
 
         public Applications(Study study)
         {
